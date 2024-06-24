@@ -16,7 +16,6 @@ import Sidebar from "@/components/Sidebar.vue";
 </template>
 
 <style scoped>
-
 main {
     width: 100%;
     height: 100vh;
